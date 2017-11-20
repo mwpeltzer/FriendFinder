@@ -1,12 +1,12 @@
-let friends = [
+let friendsArray = [
 
 {
   "name":"Brad",
   "photo":"https://upload.wikimedia.org/wikipedia/commons/5/51/Brad_Pitt_Fury_2014.jpg",
   "scores":[
-      5,
-      1,
-      4,
+      3,
+      2,
+      6,
       4,
       5,
       1,
@@ -87,4 +87,4 @@ let friends = [
 
 ];
 
-module.exports = friends;
+module.exports = friendsArray;
